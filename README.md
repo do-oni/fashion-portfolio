@@ -1,5 +1,3 @@
-# fashion-portfolio
-
 ## Build Setup
 
 ```bash

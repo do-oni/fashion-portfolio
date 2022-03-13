@@ -1,0 +1,9 @@
+{
+  "name": "fashion-portfolio",
+  "short_name": "fashion-portfolio",
+  "icons": [],
+  "start_url": "/fashion-portfolio/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
